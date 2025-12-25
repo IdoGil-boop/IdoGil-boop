@@ -70,7 +70,10 @@ Sophisticated TypeScript project with MIT License for flexible usage.
 
 <a href="https://github.com/IdoGil-boop">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub">
-</a>a>
+</a>
+<a href="www.linkedin.com/in/ido-gil">
+<img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin"&logoColor='white' alt="linkedin-181717">
+</a>
 
 ---
 
