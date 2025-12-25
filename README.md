@@ -34,29 +34,29 @@ Welcome to my GitHub! I'm a **full-stack developer** passionate about building i
         ## 📊 Notable Projects
 
         ### 🎮 [threesome](https://github.com/IdoGil-boop/threesome)
-        A strategic chess-like game with unique 3-piece mechanics. Features intelligent game logic and interactive gameplay.
-        - **Tech**: Python
-        - - **Highlights**: Game logic, AI decision-making
+        Strategic chess-like game with unique 3-piece mechanics. Features intelligent game logic and interactive gameplay.
+        - **Tech:** Python
+        - - **Highlights:** Game logic, AI decision-making
          
           - ### 🤖 [MarketingAI](https://github.com/IdoGil-boop/MarketingAI)
-          - An intelligent marketing analytics system powered by machine learning.
-          - - **Tech**: Python, AI/ML
-            - - **Highlights**: Data analysis, predictive modeling
+          - Intelligent marketing analytics system powered by machine learning.
+          - - **Tech:** Python, AI/ML
+            - - **Highlights:** Data analysis, predictive modeling
              
               - ### 📱 [mila](https://github.com/IdoGil-boop/mila)
-              - A modern TypeScript project showcasing full-stack development capabilities.
-              - - **Tech**: TypeScript
-                - - **Highlights**: Type safety, modern patterns
+              - Modern TypeScript project showcasing full-stack development capabilities.
+              - - **Tech:** TypeScript
+                - - **Highlights:** Type safety, modern patterns
                  
                   - ### 📍 [Loca](https://github.com/IdoGil-boop/Loca)
-                  - A location-based application built with TypeScript and MIT License.
-                  - - **Tech**: TypeScript
-                    - - **Highlights**: API design, scalable architecture
+                  - Location-based application built with TypeScript and MIT License.
+                  - - **Tech:** TypeScript
+                    - - **Highlights:** API design, scalable architecture
                      
                       - ### 🍺 [elsebrew](https://github.com/IdoGil-boop/elsebrew)
-                      - A sophisticated TypeScript project with MIT License for flexible usage.
-                      - - **Tech**: TypeScript
-                        - - **Highlights**: Enterprise patterns, modularity
+                      - Sophisticated TypeScript project with MIT License for flexible usage.
+                      - - **Tech:** TypeScript
+                        - - **Highlights:** Enterprise patterns, modularity
                          
                           - ---
 
@@ -75,23 +75,17 @@ Welcome to my GitHub! I'm a **full-stack developer** passionate about building i
 
                           ---
 
-                          ## 💡 What I'm Currently Exploring
+                          ## 💡 Currently Exploring
 
-                          - 🔨 Building scalable backend systems
-                          - - 📚 Deep diving into AI/ML applications
-                            - - 🎮 Advancing game development skills
-                              - - 🧪 Testing and quality assurance practices
+                          - Building scalable backend systems
+                          - - Deep diving into AI/ML applications
+                            - - Advancing game development skills
+                              - - Testing and quality assurance practices
                                
                                 - ---
 
                                 ## 🎯 Let's Collaborate!
 
-                                I'm always interested in:
-                                - Exciting projects that push the boundaries
-                                - - Open-source contributions
-                                  - - Building products that solve real problems
-                                    - - Mentoring and learning from the community
-                                     
-                                      - Feel free to explore my repositories and reach out if you'd like to collaborate!
-                                     
-                                      - **Happy coding! 🚀**
+                                I'm always interested in exciting projects, open-source contributions, and building products that solve real problems. Feel free to explore my repositories!
+
+                                **Happy coding! 🚀**
