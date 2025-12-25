@@ -70,7 +70,7 @@ Welcome to my GitHub! I'm a **full-stack developer** passionate about building i
                           ## 🔗 Connect With Me
 
                           <a href="https://github.com/IdoGil-boop">
-                            <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub">
+                          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub">
                           </a>a>
 
                           ---
