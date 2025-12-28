@@ -33,6 +33,11 @@ Welcome to my GitHub! I'm a **full-stack developer** passionate about building i
 
 ## 📊 Notable Projects
 
+### 🍺 [elsebrew](https://github.com/IdoGil-boop/elsebrew)                 
+Find Your Local Cafe, Anywhere! Uses RAG-like system to recommand your favourite cafes' twins in your travel destination.
+**Tech:** TypeScript
+**Highlights:** Enterprise patterns, modularity
+
 ### 🎮 [threesome](https://github.com/IdoGil-boop/threesome)
 Strategic chess-like game with unique 3-piece mechanics. Features intelligent game logic and interactive gameplay.
 **Tech:** Python
@@ -42,6 +47,7 @@ Strategic chess-like game with unique 3-piece mechanics. Features intelligent ga
 Intelligent marketing analytics system powered by machine learning.
 **Tech:** Python, AI/ML
 **Highlights:** Data analysis, predictive modeling
+
 ### 📱 [mila](https://github.com/IdoGil-boop/mila)
 Modern TypeScript project showcasing full-stack development capabilities.
 **Tech:** TypeScript
@@ -51,11 +57,6 @@ Modern TypeScript project showcasing full-stack development capabilities.
 Location-based application built with TypeScript and MIT License.
 **Tech:** TypeScript
 **Highlights:** API design, scalable architecture
-
-🍺 [elsebrew](https://github.com/IdoGil-boop/elsebrew)                 
-Sophisticated TypeScript project with MIT License for flexible usage.
-**Tech:** TypeScript
-**Highlights:** Enterprise patterns, modularity
 
 ---
 
